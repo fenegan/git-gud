@@ -6,3 +6,5 @@ ls -l # list files in folder
 cat <file> # show file
 
 ssh-keygen -t rsa # generate ssh key
+
+mkdir <folder> # creates a folder

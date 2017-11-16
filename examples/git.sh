@@ -11,3 +11,5 @@ git push -u origin master # first push only
 git push
 
 git pull
+
+git mv <file> <destination> # Move or rename a file
